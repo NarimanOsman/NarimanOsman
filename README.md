@@ -11,9 +11,9 @@
 ---
 
 ### 🔭 About Me
-* 🌱 I'm currently focused on advanced **Data Science**, **Machine Learning**, **Web/Mobile Development**, and **Data Analytics**.
-* 📍 Based in **Rwanda**[cite: 5].
-* 💡 Passionate about turning raw data into meaningful insights and scalable artificial intelligence applications.
+*  I'm currently focused on advanced **Data Science**, **Machine Learning**, **Web/Mobile Development**, and **Data Analytics**.
+*  Based in **Rwanda**[cite: 5].
+*  Passionate about turning raw data into meaningful insights and scalable artificial intelligence applications.
 
 ---
 
