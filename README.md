@@ -1,4 +1,4 @@
-<table style="border: 1px solid #d0d7de; border-radius: 8px; border-collapse: separate; overflow: hidden;" width="100%">
+<table style="border: 1px solid #d0d7de; border-radius: 10px; border-collapse: separate; overflow: hidden;" width="100%">
   <tr>
     <td width="60%" valign="middle" style="padding: 16px;">
       <h1>Hi there, I'm Nariman Osman 👋</h1>
@@ -12,7 +12,7 @@
       </p>
     </td>
     <td width="40%" align="center" valign="middle" style="padding: 16px;">
-      <img src="https://github.com/NarimanOsman.png" alt="Nariman Osman" width="330" style="border-radius: 10px;">
+      <img src="https://github.com/NarimanOsman.png" alt="Nariman Osman" width="330" style="border-radius: 12px;">
     </td>
   </tr>
 </table>
