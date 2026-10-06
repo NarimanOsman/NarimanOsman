@@ -1,18 +1,21 @@
-<h1 align="center">Hi there, I'm Nariman Osman 👋</h1>
-<h3 align="center">Data Scientist & Data Analyst | Building AI-Powered Solutions & Data-Driven Insights</h3>
-
-<!-- Centered Profile Image -->
-<p align="center">
-  <img src="https://github.com/NarimanOsman.png" alt="Nariman Osman" width="220" height="220" style="border-radius: 50%;">
-</p>
-
-<!-- Contact Badges -->
-<p align="center">
-  <a href="mailto:narimanrobo8@gmail.com"><img src="https://img.shields.io/badge/Email-narimanrobo8@gmail.com-red?style=flat-square&logo=gmail" alt="Email"></a>
-  <a href="https://nariman-osman-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Vercel-black?style=flat-square&logo=vercel" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/nariman-osman-b9a8783a3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://huggingface.co/NarimanOsman2025" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-Spaces-yellow?style=flat-square&logo=huggingface" alt="Hugging Face"></a>
-</p>
+<table>
+  <tr>
+    <td width="60%" valign="middle">
+      <h1>Hi there, I'm Nariman Osman 👋</h1>
+      <h3>Data Scientist & Data Analyst | Building AI-Powered Solutions & Data-Driven Insights</h3>
+      <br>
+      <p>
+        <a href="mailto:narimanrobo8@gmail.com"><img src="https://img.shields.io/badge/Email-narimanrobo8@gmail.com-red?style=flat-square&logo=gmail" alt="Email"></a>
+        <a href="https://nariman-osman-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Vercel-black?style=flat-square&logo=vercel" alt="Portfolio"></a>
+        <a href="https://www.linkedin.com/in/nariman-osman-b9a8783a3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+        <a href="https://huggingface.co/NarimanOsman2025" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-Spaces-yellow?style=flat-square&logo=huggingface" alt="Hugging Face"></a>
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://github.com/NarimanOsman.png" alt="Nariman Osman" width="280" style="border-radius: 12px;">
+    </td>
+  </tr>
+</table>
 
 ---
 
