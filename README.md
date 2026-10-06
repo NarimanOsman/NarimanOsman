@@ -10,14 +10,14 @@
 
 ---
 
-### <span style="color: #2b6cb0;">🔭 About Me</span>
-* 🌱 I'm currently focused on advanced **Data Science**, **Machine Learning**, **Web/Mobile Development**, and **Data Analytics**.
-* 📍 Based in **Rwanda**.
-* 💡 Passionate about turning raw data into meaningful insights and scalable artificial intelligence applications.
+### <h3><img src="https://raw.githubusercontent.com/tandcode/vector-icons/main/user.svg" width="20" height="20" /> About Me</h3>
+* <img src="https://raw.githubusercontent.com/tandcode/vector-icons/main/bullet.svg" width="12" height="12" /> I'm currently focused on advanced **Data Science**, **Machine Learning**, **Web/Mobile Development**, and **Data Analytics**.
+* <img src="https://raw.githubusercontent.com/tandcode/vector-icons/main/bullet.svg" width="12" height="12" /> Based in **Rwanda**.
+* <img src="https://raw.githubusercontent.com/tandcode/vector-icons/main/bullet.svg" width="12" height="12" /> Passionate about turning raw data into meaningful insights and scalable artificial intelligence applications.
 
 ---
 
-### <span style="color: #2b6cb0;">🛠️ Tech Stack & Skills</span>
+### <h3><img src="https://raw.githubusercontent.com/tandcode/vector-icons/main/code.svg" width="20" height="20" /> Tech Stack & Skills</h3>
 * **Languages:** Python, JavaScript, SQL
 * **Data Science & ML:** Scikit-Learn, PyTorch, Pandas, NumPy, Google Colab, Jupyter Notebooks
 * **Web & Mobile Development:** React, React Native, Django, Gradio, Streamlit, HTML/CSS
@@ -26,7 +26,7 @@
 
 ---
 
-### <span style="color: #2b6cb0;">🚀 Featured Projects</span>
+### <h3><img src="https://raw.githubusercontent.com/tandcode/vector-icons/main/folder.svg" width="20" height="20" /> Featured Projects</h3>
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -37,14 +37,14 @@
 
 ---
 
-### <span style="color: #2b6cb0;">📊 GitHub Stats</span>
+### <h3><img src="https://raw.githubusercontent.com/tandcode/vector-icons/main/chart.svg" width="20" height="20" /> GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NarimanOsman&show_icons=true&theme=radical" alt="Nariman's GitHub Stats" />
 </p>
 
 ---
 
-### <span style="color: #2b6cb0;">🤝 Let's Connect</span>
+### <h3><img src="https://raw.githubusercontent.com/tandcode/vector-icons/main/link.svg" width="20" height="20" /> Let's Connect</h3>
 * **Email:** narimanrobo8@gmail.com
 * **Portfolio:** [nariman-osman-portfolio.vercel.app](https://nariman-osman-portfolio.vercel.app/)
 * **LinkedIn:** [Nariman Osman](https://www.linkedin.com/in/nariman-osman-b9a8783a3/)
