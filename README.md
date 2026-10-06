@@ -3,7 +3,7 @@
 
 <!-- Centered Profile Image -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/952b4e4?v=4" alt="Nariman Osman" width="300" height="300" style="border-radius: 50%;">
+  <img src="https://github.com/NarimanOsman.png" alt="Nariman Osman" width="220" height="220" style="border-radius: 50%;">
 </p>
 
 <!-- Contact Badges -->
