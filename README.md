@@ -1,6 +1,12 @@
 <h1 align="center">Hi there, I'm Nariman Osman 👋</h1>
 <h3 align="center">Data Scientist & Data Analyst | Building AI-Powered Solutions & Data-Driven Insights</h3>
 
+<!-- Centered Profile Image -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/952b4e4?v=4" alt="Nariman Osman" width="300" height="300" style="border-radius: 50%;">
+</p>
+
+<!-- Contact Badges -->
 <p align="center">
   <a href="mailto:narimanrobo8@gmail.com"><img src="https://img.shields.io/badge/Email-narimanrobo8@gmail.com-red?style=flat-square&logo=gmail" alt="Email"></a>
   <a href="https://nariman-osman-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Vercel-black?style=flat-square&logo=vercel" alt="Portfolio"></a>
@@ -10,14 +16,14 @@
 
 ---
 
-### <h3><img src="https://raw.githubusercontent.com/tandcode/vector-icons/main/user.svg" width="20" height="20" /> About Me</h3>
-* <img src="https://raw.githubusercontent.com/tandcode/vector-icons/main/bullet.svg" width="12" height="12" /> I'm currently focused on advanced **Data Science**, **Machine Learning**, **Web/Mobile Development**, and **Data Analytics**.
-* <img src="https://raw.githubusercontent.com/tandcode/vector-icons/main/bullet.svg" width="12" height="12" /> Based in **Rwanda**.
-* <img src="https://raw.githubusercontent.com/tandcode/vector-icons/main/bullet.svg" width="12" height="12" /> Passionate about turning raw data into meaningful insights and scalable artificial intelligence applications.
+### 🔭 About Me
+* 🌱 I'm currently focused on advanced **Data Science**, **Machine Learning**, **Web/Mobile Development**, and **Data Analytics**.
+* 📍 Based in **Rwanda**.
+* 💡 Passionate about turning raw data into meaningful insights and scalable artificial intelligence applications.
 
 ---
 
-### <h3><img src="https://raw.githubusercontent.com/tandcode/vector-icons/main/code.svg" width="20" height="20" /> Tech Stack & Skills</h3>
+### 🛠️ Tech Stack & Skills
 * **Languages:** Python, JavaScript, SQL
 * **Data Science & ML:** Scikit-Learn, PyTorch, Pandas, NumPy, Google Colab, Jupyter Notebooks
 * **Web & Mobile Development:** React, React Native, Django, Gradio, Streamlit, HTML/CSS
@@ -26,7 +32,7 @@
 
 ---
 
-### <h3><img src="https://raw.githubusercontent.com/tandcode/vector-icons/main/folder.svg" width="20" height="20" /> Featured Projects</h3>
+### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -37,14 +43,14 @@
 
 ---
 
-### <h3><img src="https://raw.githubusercontent.com/tandcode/vector-icons/main/chart.svg" width="20" height="20" /> GitHub Stats</h3>
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NarimanOsman&show_icons=true&theme=radical" alt="Nariman's GitHub Stats" />
 </p>
 
 ---
 
-### <h3><img src="https://raw.githubusercontent.com/tandcode/vector-icons/main/link.svg" width="20" height="20" /> Let's Connect</h3>
+### 🤝 Let's Connect
 * **Email:** narimanrobo8@gmail.com
 * **Portfolio:** [nariman-osman-portfolio.vercel.app](https://nariman-osman-portfolio.vercel.app/)
 * **LinkedIn:** [Nariman Osman](https://www.linkedin.com/in/nariman-osman-b9a8783a3/)
